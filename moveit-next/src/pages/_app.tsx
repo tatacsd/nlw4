@@ -1,4 +1,4 @@
-/* in all pages is the same*/
+/* in all pages are the same*/
 import '../styles/global.css'
 
 function MyApp({ Component, pageProps }) {
