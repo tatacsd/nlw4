@@ -2,7 +2,7 @@
   display: flex;
   align-items: center;
 
-  font-family: "Rajdhani"; /* not working */
+  font-family: Rajdhani;
   font-weight: 600;
   color: var(--title);
 }
