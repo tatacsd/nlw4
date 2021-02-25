@@ -15,9 +15,9 @@ export function ExperienceBar(){
       <span>0 xp</span>
       <div>
         {/* it is inline because the css file is for unmutable things. */}
-        <div style={{ width: `${percentToNextLevel}` }} />
+        <div style={{ width: `${percentToNextLevel}%` }} />
 
-        <span className= { styles.currentExperience} style={{ left: `${percentToNextLevel}` }}>
+        <span className= { styles.currentExperience} style={{ left: `${percentToNextLevel}%` }}>
           {currentExperience} xp
         </span>
       </div>
