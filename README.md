@@ -1,6 +1,8 @@
 ![](https://github.com/tatacsd/nlw4/blob/main/NLW04_pack_divulgacao_-_Github.png?raw=true)
-![GitHub all releases](https://img.shields.io/github/downloads/tatacsd/nlw4/total?color=blueviolet&label=Download)
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                     ![GitHub all releases](https://img.shields.io/github/downloads/tatacsd/nlw4/total?color=blueviolet&label=Download)
 ![Website](https://img.shields.io/website?color=blueviolet&label=%3Cnlw%2F%3E&url=https%3A%2F%2Fnextlevelweek.com%2Finscricao%2F4)
+
 <br>
 
 # Hello there ✋ 
