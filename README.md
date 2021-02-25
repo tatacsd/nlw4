@@ -20,8 +20,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## How to get started 💻
 
-First, you need to download and install [Node.js] (https://nodejs.org/en/). 
-Within the Node.js installed on your computer, you will open the [Git Bash] (https://gitforwindows.org/) and find the directory where you saved the 'moveit-next' folder.
+First, you need to download and install [Node.js](https://nodejs.org/en/). 
+Within the Node.js installed on your computer, you will open the [Git Bash](https://gitforwindows.org/) and find the directory where you saved the 'moveit-next' folder.
 For example:
 ```bash
 cd /d/moveit-next/
