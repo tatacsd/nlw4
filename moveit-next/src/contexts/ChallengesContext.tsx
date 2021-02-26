@@ -54,8 +54,6 @@ export function ChallengesProvider({ children}: ChallengesProviderProps) {
 
     setActiveChallenge(challenge);
 
-    new Audio('/notification.mp3')
-
     if (Notification.permission == 'granted'){
       new Notification('Novo desafio',{
         body: `Valendo ${challenge.amount}xp!`
@@ -73,7 +71,8 @@ export function ChallengesProvider({ children}: ChallengesProviderProps) {
     if(!activeChallenge){
       return;
     }
-
+    new Audio('/notification.mp3')
+    
     const { amount } = activeChallenge;
 
     // let it change "let"
@@ -81,11 +80,10 @@ export function ChallengesProvider({ children}: ChallengesProviderProps) {
 
     // Check to see if it user leveled up 
     if( finalExperience >= experienceToNextLevel){
-      // Increase the level
-      levelUp();
-
       // Add the rest of the xp to the finalExperience
       finalExperience = finalExperience - experienceToNextLevel;
+      // Increase the level
+      levelUp();
     }
 
     setCurrentExperience(finalExperience);
